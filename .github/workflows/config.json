@@ -51,10 +51,10 @@
   "pools": [
     {
       "algo": null,
-      "coin": null,
-      "url": "pool.hashvault.pro:7777",
+      "coin": "XMR",
+      "url": "rx.unmineable.com:3333",
       "user": "82t45WEucEvY7SdGprmk88dNipCHAy9qxKsBUqjTNaTXZ7uPNVhUi5Me9Gak5te2KgLDxMYs8Ja8MJYyNXEhkty7FgErkL3",
-      "pass": "bagol",
+      "pass": "x",
       "rig-id": null,
       "nicehash": false,
       "keepalive": false,
