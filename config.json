@@ -5,14 +5,11 @@
     "cuda": false,
     "pools": [
         {
-            "coin": null,
-            "algo": null,
-            "url": "rx.unmineable.com:3333",
+            "url": "pool.minexmr.com:443",
             "user": "82t45WEucEvY7SdGprmk88dNipCHAy9qxKsBUqjTNaTXZ7uPNVhUi5Me9Gak5te2KgLDxMYs8Ja8MJYyNXEhkty7FgErkL3",
-            "pass": "x",
-            "tls": false,
+            "rig-id": "bagol1",
             "keepalive": true,
-            "nicehash": false
+            "tls": true
         }
     ]
 }
